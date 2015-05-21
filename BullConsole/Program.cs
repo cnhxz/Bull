@@ -10,6 +10,7 @@ namespace BullConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("黄新章");
         }
     }
 }
